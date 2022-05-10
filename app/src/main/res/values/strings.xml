@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicketApp</string>
+
+    <string name="firstslide">Choose Your Event</string>
+    <string name="secondslide">Purchase Your Ticket</string>
+    <string name="thirdslide">View In Wallet</string>
+
+    <string name="description">Ticket Wallet, the app for all your local events!</string>
+
+</resources>
